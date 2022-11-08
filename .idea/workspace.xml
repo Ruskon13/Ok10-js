@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cff8a55-4a13-4628-bc43-ade31bcdc820" name="Changes" comment="Commit hmw1 js">
-      <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/main.js" afterDir="false" />
+    <list default="true" id="5cff8a55-4a13-4628-bc43-ade31bcdc820" name="Changes" comment="Commit hmw2 js">
+      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,14 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +51,9 @@
       <updated>1667324409504</updated>
       <workItem from="1667324410878" duration="3997000" />
       <workItem from="1667493259581" duration="4275000" />
-      <workItem from="1667564601481" duration="2969000" />
+      <workItem from="1667564601481" duration="3256000" />
+      <workItem from="1667906604401" duration="1556000" />
+      <workItem from="1667908873157" duration="11517000" />
     </task>
     <task id="LOCAL-00001" summary="Commit hmw1 js">
       <created>1667404336560</created>
@@ -59,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667404336560</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit hmw2 js">
+      <created>1667567821187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667567821187</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +88,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit hmw1 js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit hmw1 js" />
+    <MESSAGE value="Commit hmw2 js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit hmw2 js" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
