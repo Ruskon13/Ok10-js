@@ -3,7 +3,7 @@
 //     що дорівнює 1, 0, -3
 
 // let x = +prompt('Write your number:')
-// if(x !=0){
+// if(x !==0){
 //     console.log('Вірно')
 // } else {
 //     console.log('Невірно')
