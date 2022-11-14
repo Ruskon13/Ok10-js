@@ -99,19 +99,19 @@
 // //
 // // --------------------
 // //     є масив
-let users = [
-    {name: 'vasya', age: 31, status: false},
-    {name: 'petya', age: 30, status: true},
-    {name: 'kolya', age: 29, status: true},
-    {name: 'olya', age: 28, status: false},
-    {name: 'max', age: 30, status: true},
-    {name: 'anya', age: 31, status: false},
-    {name: 'oleg', age: 28, status: false},
-    {name: 'andrey', age: 29, status: true},
-    {name: 'masha', age: 30, status: true},
-    {name: 'olya', age: 32, status: false},
-    {name: 'max', age: 32, status: true}
-];
+// let users = [
+//     {name: 'vasya', age: 31, status: false},
+//     {name: 'petya', age: 30, status: true},
+//     {name: 'kolya', age: 29, status: true},
+//     {name: 'olya', age: 28, status: false},
+//     {name: 'max', age: 30, status: true},
+//     {name: 'anya', age: 31, status: false},
+//     {name: 'oleg', age: 28, status: false},
+//     {name: 'andrey', age: 29, status: true},
+//     {name: 'masha', age: 30, status: true},
+//     {name: 'olya', age: 32, status: false},
+//     {name: 'max', age: 32, status: true}
+// ];
 
 // // за допомоги циклу вивести:
 // //     - користувачів зі статусом true
@@ -133,20 +133,21 @@ let users = [
 // // - користувачів які старші за 30 років
 
 
-for (let user of users) {
-    if(user.age>30)
-        console.log(user.age);
+// for (let user of users) {
+//     if(user.age>30)
+//         console.log(user.age);
+//
+// }
 
-}
-
+// or
 
 // document.write(`<div class="user-card">`);
 // for (const user of users) {
 //     if (user.age > 30) {
 //         document.write(`<div class="user-info">`);
 //
-//         for (const userElement of user) {
-//             document.write(`<div> ${userElement} --- ${user[userElement]}</div>`);
+//         for (const userElement in user) {
+//             document.write(`<div> ${userElement} - ${user[userElement]}</div>`);
 //
 //         }
 //         document.write(`</div>`);
