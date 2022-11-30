@@ -122,6 +122,19 @@
 
 // - створити функцію яка повертає найменше число з масиву
 
+function foo(array) {
+    let min = array[0];
+    for (const number of array) {
+        if (number< min){
+            min=number;
+        }
+    }
+    return min;
+}
+
+console.log(foo(arr))
+
+
 // let arr = [1, -300, 5, 7, 9, -15, 0, 100]
 //
 // let x = function (array) {
