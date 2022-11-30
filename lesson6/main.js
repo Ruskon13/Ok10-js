@@ -113,7 +113,6 @@ let deck = [
     {cardSuit:'Diamonds', value: 'Ace', color:'Red'}
 ];
 
-
 // - знайти піковий туз
 
 // let aceSpade = deck.filter(card=>card.cardSuit==='Spade' && card.value ==='Ace')
@@ -143,19 +142,19 @@ let deck = [
 // Додатково по reduce
 // Взяти описану колоду карт, та за допомоги редюсу попакувати всі карти по "мастях" в об'єкт
 
-// let reduce = deck.reduce((accumulator, card) => {
-//     if(card.cardSuit === 'Spade'){
-//         accumulator.spades.push(card)
-//     }else if(card.cardSuit === 'Diamonds'){
-//         accumulator.diamonds.push(card)
-//     }else if(card.cardSuit === 'Hearts'){
-//         accumulator.hearts.push(card)
-//     }else if (card.cardSuit === 'Clubs'){
-//         accumulator.clubs.push(card)
-//     }
-//     return accumulator
-// },{spades:[], diamonds:[], hearts:[], clubs:[] });
-// console.log(reduce);
+let reduce = deck.reduce((accumulator, card) => {
+    if(card.cardSuit === 'Spade'){
+        accumulator.spades.push(card)
+    }else if(card.cardSuit === 'Diamonds'){
+        accumulator.diamonds.push(card)
+    }else if(card.cardSuit === 'Hearts'){
+        accumulator.hearts.push(card)
+    }else if (card.cardSuit === 'Clubs'){
+        accumulator.clubs.push(card)
+    }
+    return accumulator
+},{spades:[], diamonds:[], hearts:[], clubs:[] });
+console.log(reduce);
 
 
 // {
