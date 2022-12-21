@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cff8a55-4a13-4628-bc43-ade31bcdc820" name="Changes" comment="Commit hmw6 js">
-      <change afterPath="$PROJECT_DIR$/lesson5_1add/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5_1add/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/main1.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +86,13 @@
       <workItem from="1669171539761" duration="200000" />
       <workItem from="1669205449971" duration="6885000" />
       <workItem from="1669820638933" duration="3241000" />
+      <workItem from="1669851646803" duration="1240000" />
+      <workItem from="1670443235656" duration="2350000" />
+      <workItem from="1670925827531" duration="1542000" />
+      <workItem from="1670983552508" duration="2391000" />
+      <workItem from="1671051713569" duration="2949000" />
+      <workItem from="1671536863439" duration="6742000" />
+      <workItem from="1671634821496" duration="2822000" />
     </task>
     <task id="LOCAL-00001" summary="Commit hmw1 js">
       <created>1667404336560</created>
@@ -162,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669851595854</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commit hmw6 js">
+      <created>1669851659079</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669851659079</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
