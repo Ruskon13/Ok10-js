@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cff8a55-4a13-4628-bc43-ade31bcdc820" name="Changes" comment="Commit hmw10 js">
-      <change afterPath="$PROJECT_DIR$/mini-project/main/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/main/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/post details/post-details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/post details/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/post details/post-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/user details/user-details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/user details/user-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mini-project/user details/user-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5cff8a55-4a13-4628-bc43-ade31bcdc820" name="Changes" comment="mini-project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +99,7 @@
       <workItem from="1671891022487" duration="5003000" />
       <workItem from="1671917612958" duration="10327000" />
       <workItem from="1671962025208" duration="12424000" />
-      <workItem from="1672059290744" duration="4317000" />
+      <workItem from="1672059290744" duration="4457000" />
     </task>
     <task id="LOCAL-00001" summary="Commit hmw1 js">
       <created>1667404336560</created>
@@ -203,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671637862795</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="mini-project">
+      <created>1672064556498</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672064556498</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +226,8 @@
     <MESSAGE value="Commit hmw4_1additional js" />
     <MESSAGE value="Commit hmw6 js" />
     <MESSAGE value="Commit hmw10 js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit hmw10 js" />
+    <MESSAGE value="mini-project" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini-project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
