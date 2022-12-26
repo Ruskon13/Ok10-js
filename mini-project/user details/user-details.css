@@ -1,0 +1,88 @@
+body{
+    background: #292962;
+    font-family: 'Raleway', sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+.page{
+    height: 100%;
+    width: 90%;
+    margin: auto ;
+
+
+}
+.container{
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.information-details-posts{
+    width: 100%;
+    max-height: 100%;
+    background-color: #9d8a56;
+    border-radius: 13px;
+    display: flex;
+    padding: 10px 10px;
+}
+.userDetails{
+    width: 45%;
+    height: 100%;
+    font-size: 25px;
+    margin-left: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.posts{
+    width: 55%;
+    height: 49%;
+    background-color: #8a7949;
+    margin-top: 15px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.postButton{
+    background-color: darkgray;
+    width: 140px;
+    height: 40px;
+    margin-top: 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+    margin: auto;
+}
+
+.postButton:hover{
+    background: #8f8f8f;
+}
+
+.post-element{
+    width: 705px;
+    margin: 9px 10px;
+    font-size: 20px;
+    background-color: darkgray;
+    padding: 6px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.moreButton{
+    color: #1a1313;
+    width: 50px;
+    border-radius: 5px;
+    height: 20px;
+    text-align: center;
+    background-color: #7e6462;
+    position: relative;
+    font-size: 12px;
+}
+.moreButton:hover{
+    background: #9a807f;
+}

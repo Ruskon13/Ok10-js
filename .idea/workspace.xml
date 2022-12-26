@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cff8a55-4a13-4628-bc43-ade31bcdc820" name="Changes" comment="Commit hmw6 js">
-      <change afterPath="$PROJECT_DIR$/lesson10/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/user-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
+    <list default="true" id="5cff8a55-4a13-4628-bc43-ade31bcdc820" name="Changes" comment="Commit hmw10 js">
+      <change afterPath="$PROJECT_DIR$/mini-project/main/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/post details/post-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/post details/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/post details/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/user details/user-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/user details/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/user details/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +23,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,12 +47,16 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Konfa/Desktop/mini-project&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IntelliJ IDE\IntelliJ IDEA 2022.2.3\projects\Ok10-js\mini-project\user details" />
+      <recent name="F:\IntelliJ IDE\IntelliJ IDEA 2022.2.3\projects\Ok10-js\mini-project\main" />
       <recent name="F:\IntelliJ IDE\IntelliJ IDEA 2022.2.3\projects\Ok10-js\lesson5" />
     </key>
   </component>
@@ -92,7 +101,16 @@
       <workItem from="1670983552508" duration="2391000" />
       <workItem from="1671051713569" duration="2949000" />
       <workItem from="1671536863439" duration="6742000" />
-      <workItem from="1671634821496" duration="2822000" />
+      <workItem from="1671634821496" duration="2871000" />
+      <workItem from="1671658667097" duration="432000" />
+      <workItem from="1671661682310" duration="3382000" />
+      <workItem from="1671731086871" duration="4677000" />
+      <workItem from="1671738375791" duration="468000" />
+      <workItem from="1671827392283" duration="3983000" />
+      <workItem from="1671891022487" duration="5003000" />
+      <workItem from="1671917612958" duration="10327000" />
+      <workItem from="1671962025208" duration="12424000" />
+      <workItem from="1672059290744" duration="4317000" />
     </task>
     <task id="LOCAL-00001" summary="Commit hmw1 js">
       <created>1667404336560</created>
@@ -178,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669851659079</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit hmw10 js">
+      <created>1671637862795</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671637862795</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +229,8 @@
     <MESSAGE value="Commit hmw5 js" />
     <MESSAGE value="Commit hmw4_1additional js" />
     <MESSAGE value="Commit hmw6 js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit hmw6 js" />
+    <MESSAGE value="Commit hmw10 js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit hmw10 js" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,0 +1,39 @@
+body{
+    background-color: #292962;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.container{
+    min-height: 1200px;
+    border-radius: 5px;
+    padding: 15px ;
+}
+.userInformation{
+    background-color: #9d8a56;
+    min-height: 400px;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 30px;
+}
+.userComments{
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 600px;
+}
+.block-comments{
+    font-size: 20px;
+    width: 300px;
+    min-height: 490px;
+    background-color: darkgray;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 20px 5px 0 5px;
+}
+.inside-elements{
+    margin-top: 8px;
+    background-color: #9b9a9a;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 4px;
+}
